@@ -10,7 +10,7 @@
 		<script>
 			function oferta(){
 				
-				var opcion=prompt("Ingrese su nombre");
+				var opcion=prompt("Ingrese su nooooooooombre");
 				
 			}
 			var slideIndex = 1;
